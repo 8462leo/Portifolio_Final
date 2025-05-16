@@ -87,7 +87,7 @@ const About = () => {
               <img
                 className="w-full h-auto"
                 alt="Foto profissional trabalhando"
-                src="src/assets/Gemini_Generated_Image_c9wa1nc9wa1nc9wa.png"
+                src="https://github.com/8462leo/Portifolio_Final/blob/main/src/assets/Gemini_Generated_Image_c9wa1nc9wa1nc9wa.png?raw=true"
               />
             </div>
             <div className="absolute -bottom-4 -right-4 w-full h-full border-4 border-primary/10 rounded-lg -z-10"></div>
